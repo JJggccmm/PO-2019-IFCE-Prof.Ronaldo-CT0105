@@ -97,7 +97,7 @@ def mergeSort(lista):                                                           
 ################################################################################################
 
 #"Função que ordena um número determinado(em função da entrada) de valores gerados aleatoriamente ou em certa ordem específica(Para essa QUINTA ATIVIDADE serão em ordem ALEATÓRIA) e retorna os devidos gráficos comparativos"
-#O que estiver comentado no código da função abaixo foi usado para gerar os outros gráficos(Da LISTA CRESCENTE E DA DECRESCENTE que o aluno decidiu fazer apenas para fins acadêmicos).
+#O que estiver comentado no código da função abaixo foi usado para gerar os outros gráficos(No caso, da LISTA DECRESCENTE, que o aluno decidiu fazer apenas para fins acadêmicos).
 #Implementação do aluno#####################################################################################################################################################################################################################################################################################
 def cria_Graficos(lista_entrada):                                                                                                                                                                                                                                                                          #
                                                                                                                                                                                                                                                                                                            #
